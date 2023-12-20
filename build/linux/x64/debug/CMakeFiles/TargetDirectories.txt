@@ -1,0 +1,14 @@
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/install.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/CMakeFiles/projeto_perguntas.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

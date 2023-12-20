@@ -1,0 +1,14 @@
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/projeto_perguntas
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/firework/Curso_Flutter/projeto_perguntas/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
